@@ -1,0 +1,46 @@
+
+body{
+	background-color: #FDFF9B;
+}
+
+div{
+	display: flex;
+	flex-direction: column;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	align-content: justify; 
+
+
+}
+label{
+	padding: 1%;
+	font-family: 'Alatsi', sans-serif;
+}
+
+button{
+	width: 30%;
+	height: 35%;
+	background-color: #177299;
+	color: white;
+	font-size: 150%;
+	border:none ;
+
+}
+img{
+	width: 16%;
+	height: 20%;
+	margin: 0% 50% 0% 43%;
+
+}
+
+input{
+	border: 3px;
+	border-color: #9EA4A6;
+	height: 20px;
+}
+
+p{
+	font-size: 130%;
+	font-family: 'Alatsi', sans-serif;
+
+}
